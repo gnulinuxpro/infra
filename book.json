@@ -1,0 +1,6 @@
+{
+	"gitbook": "3.x.x",
+	"title": "Администрирование инфраструктуры на GNU/Linux",
+	"language": "ru",
+	"plugins": ["youtube"]
+}
