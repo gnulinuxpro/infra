@@ -3,6 +3,7 @@
 * [Вступление](README.md)
 * [Оглавление](SUMMARY.md)
 * [Ссылки](https://gnulinux.pro)
+* [Команды](COMMANDS.md)
 
 ## Курс
 
