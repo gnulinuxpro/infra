@@ -1,6 +1,17 @@
-{% youtube src="https://www.youtube.com/watch?v=At-BuAM6g_A" %}{% endyoutube %}
+#############################################
+Администрирование Инфраструктуры на GNU/Linux
+#############################################
 
-![](images/readme/logo.png)
+**********
+Вступление
+**********
+
+.. raw:: html
+
+    <iframe width='560' height='315' src="https://www.youtube.com/embed/At-BuAM6g_A" title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+
+.. image:: infra.png
+
 
 Всем привет!
 
@@ -9,3 +20,23 @@
 Особенностью курса является то, что вся наша инфраструктура будет строиться на операционных системах семейства GNU/Linux. Реальная инфрастуктура зачастую состоит из множества готовых проприетарных решений, я же буду акцентировать внимание не на инструментах, а на задачах администратора. Т.е. мы научимся практикам, которые применимы везде, независимо от программного обеспечения. И тем не менее, умение работать с опенсорсными решениями также будет вам полезно.  
 
 
+Содержимое
+##########
+
+Ссылки
+******
+
+.. toctree::
+
+   Ссылки <https://gnulinux.pro>
+
+
+Команды
+*******
+
+.. toctree::
+   :titlesonly:
+
+   infra/header/commands.md
+
+.. include:: course.rst
